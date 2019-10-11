@@ -1,0 +1,10 @@
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\bin\Debug\Seminar2809.exe.config
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\bin\Debug\Seminar2809.exe
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\bin\Debug\Seminar2809.pdb
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.csprojAssemblyReference.cache
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.Properties.Resources.resources
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.csproj.GenerateResource.cache
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.csproj.CoreCompileInputs.cache
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.exe
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.pdb
+C:\Users\lisov\Documents\Visual Studio 2019\Projects\Seminar2809\Seminar2809\obj\Debug\Seminar2809.Form1.resources
